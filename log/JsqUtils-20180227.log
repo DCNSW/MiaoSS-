@@ -1,0 +1,30 @@
+11:31:29  -INFO   -  [6080] [][InitializeJsqUtilsModuleW] is called. Working directory: C:\Users\hdc\Desktop\MiaoSS
+11:31:29  -INFO   -  [6080] [][InitilizeLocalHostInfo] is called. Config File: C:\Users\hdc\Desktop\MiaoSS
+11:31:29  -INFO   -  [6080] [][InitilizeLocalHostInfo] gethostname: LAPTOP-8HMLCEJF.
+11:31:29  -INFO   -  [6080] [][InitilizeLocalHostInfo] gethostbyname local address: 0 => 192.168.1.104
+11:31:29  -INFO   -  [6080] [][LoadConfig] configure of ns: 127.0.0.1:29811,searchport: 1
+11:31:29  -INFO   -  [6080] [][RealStart] is starting NS server.
+11:31:29  -INFO   -  [6080] [][RealStart] ns started at: 127.0.0.1:29811
+11:31:29  -INFO   -  [6080] [][Thread_Accept] started.
+11:31:29  -INFO   -  [6080] [][LoadSpecialList] Special list file: C:\Users\hdc\Desktop\MiaoSS
+11:31:29  -INFO   -  [6080] [][InitializeJsqUtilsModuleW] initialized done.
+22:43:21  -INFO   -  [16612] [][InitializeJsqUtilsModuleW] is called. Working directory: C:\Users\hdc\Desktop\MiaoSS
+22:43:21  -INFO   -  [16612] [][InitilizeLocalHostInfo] is called. Config File: C:\Users\hdc\Desktop\MiaoSS
+22:43:21  -INFO   -  [16612] [][InitilizeLocalHostInfo] gethostname: LAPTOP-8HMLCEJF.
+22:43:21  -INFO   -  [16612] [][InitilizeLocalHostInfo] gethostbyname local address: 0 => 192.168.1.104
+22:43:21  -INFO   -  [16612] [][LoadConfig] configure of ns: 127.0.0.1:29811,searchport: 1
+22:43:21  -INFO   -  [16612] [][RealStart] is starting NS server.
+22:43:21  -INFO   -  [16612] [][RealStart] ns started at: 127.0.0.1:29811
+22:43:21  -INFO   -  [16612] [][Thread_Accept] started.
+22:43:21  -INFO   -  [16612] [][LoadSpecialList] Special list file: C:\Users\hdc\Desktop\MiaoSS
+22:43:21  -INFO   -  [16612] [][InitializeJsqUtilsModuleW] initialized done.
+23:18:36  -INFO   -  [17244] [][InitializeJsqUtilsModuleW] is called. Working directory: C:\Users\hdc\Desktop\MiaoSS
+23:18:36  -INFO   -  [17244] [][InitilizeLocalHostInfo] is called. Config File: C:\Users\hdc\Desktop\MiaoSS
+23:18:36  -INFO   -  [17244] [][InitilizeLocalHostInfo] gethostname: LAPTOP-8HMLCEJF.
+23:18:36  -INFO   -  [17244] [][InitilizeLocalHostInfo] gethostbyname local address: 0 => 192.168.1.104
+23:18:36  -INFO   -  [17244] [][LoadConfig] configure of ns: 127.0.0.1:29811,searchport: 1
+23:18:36  -INFO   -  [17244] [][RealStart] is starting NS server.
+23:18:36  -INFO   -  [17244] [][RealStart] ns started at: 127.0.0.1:29811
+23:18:36  -INFO   -  [17244] [][Thread_Accept] started.
+23:18:36  -INFO   -  [17244] [][LoadSpecialList] Special list file: C:\Users\hdc\Desktop\MiaoSS
+23:18:36  -INFO   -  [17244] [][InitializeJsqUtilsModuleW] initialized done.
